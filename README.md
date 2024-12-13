@@ -5,7 +5,7 @@
 2. To predict whether there will be rainfall tommorrow or n using
     - Decision Trees
     - Random Forest
-    - K Nearest NeighboursTrees
+    - K Nearest Neighbours
     - Logistic Regression
 3. To compare performace of various classification model techniqouachine
 
