@@ -7,7 +7,7 @@
     - Random Forest
     - K Nearest Neighbours
     - Logistic Regression
-4. To compare performace of various classification model techniqouachine
+4. To compare performace of various classification model technique
 
 # About the dataset
 
