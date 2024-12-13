@@ -2,12 +2,12 @@
 
 # Objective
 1. To do Exploratory Data Analysis, Data preprocessing & Feature Engineering on the dataset
-2. To predict whether there will be rainfall tommorrow or n using
+2. To predict whether there will be rainfall tommorrow or not using
     - Decision Trees
     - Random Forest
     - K Nearest Neighbours
     - Logistic Regression
-3. To compare performace of various classification model techniqouachine
+4. To compare performace of various classification model techniqouachine
 
 # About the dataset
 
